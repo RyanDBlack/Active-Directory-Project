@@ -7,7 +7,7 @@ This Active Directory Project aims to establish a monitored active directory env
 
 ### Skills Learned
 
-- Configuring Active Directory within multiple virtual machines 
+- Configuring Active Directory within multiple virtual machines simulating different users and passwords
 - Development of critical thinking and problem-solving within Active Directory environment
 - Proficiency in analyzing and interpreting telemetry logs
 - Ability to generate and recognize attack signatures and patterns
